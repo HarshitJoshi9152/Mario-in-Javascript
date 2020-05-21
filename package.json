@@ -1,0 +1,23 @@
+{
+  "name": "mario-in-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ./public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshitJoshi9152/Mario-in-Javascript.git"
+  },
+  "author": "Harshit Joshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarshitJoshi9152/Mario-in-Javascript/issues"
+  },
+  "homepage": "https://github.com/HarshitJoshi9152/Mario-in-Javascript#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
